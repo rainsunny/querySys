@@ -1,0 +1,16 @@
+# build files
+*.class
+*.war
+
+# build out
+target/
+output/
+classes/
+.gradle/
+
+
+# ide config files
+*.iml
+.idea/
+
+.DS_Store
